@@ -2,6 +2,7 @@ h1,
 h2,
 h3 {
 	color: #4aaaa5;
+	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 button.navbar-toggle {
@@ -17,6 +18,12 @@ label {
 	height: auto;
 	color: none;
 	border-right: none;
+}
+
+.navbar-right{
+	color:white;
+	font-family: Georgia, Times, "Times New Roman", serif;
+
 }
 
 /* Rotates social icon in contacts on hover. */
@@ -91,28 +98,34 @@ label {
 
 .navbar-default .navbar-brand {
 	color: #ffffff;
+	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 .navbar-default .navbar-nav li a {
 	color: #f5f5f5;
+	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 .navbar-default .navbar-nav li a:hover {
 	color: #777;
+	font-family: Georgia, Times, "Times New Roman", serif;
 	background-color: #ddd;
 }
 
 .navbar-default .navbar-nav .active a {
 	color: #ffffff;
+	font-family: Georgia, Times, "Times New Roman", serif;
 	background-color: #777;
 }
 
 .panel-title {
 	color: #4aaaa5;
+	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 .link-hover-color {
-	color: blue;
+	color: white;
+	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 .bio-image {
